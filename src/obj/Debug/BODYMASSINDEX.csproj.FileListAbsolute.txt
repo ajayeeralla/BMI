@@ -1,0 +1,17 @@
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\ResolveAssemblyReference.cache
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.Form1.resources
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.Properties.Resources.resources
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.csproj.GenerateResource.Cache
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\bin\Debug\BODYMASSINDEX.exe
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\bin\Debug\BODYMASSINDEX.pdb
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.exe
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.pdb
+E:\Study Material\BODYMASSINDEX\BODYMASSINDEX\bin\Debug\MySql.Data.dll
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.exe
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\bin\Debug\BODYMASSINDEX.exe
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\bin\Debug\BODYMASSINDEX.pdb
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.Form1.resources
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.Properties.Resources.resources
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.csproj.GenerateResource.Cache
+C:\Users\saca\Desktop\BODYMASSINDEX\BODYMASSINDEX\obj\Debug\BODYMASSINDEX.pdb
