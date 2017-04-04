@@ -1,2 +1,2 @@
 # BMI
-To calculate Body Mass Index 
+Calculate your Body Mass Index here
